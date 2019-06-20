@@ -1,0 +1,10 @@
+F:\smtpmail\smtpmail\smtpmail\bin\Debug\smtpmail.exe.config
+F:\smtpmail\smtpmail\smtpmail\bin\Debug\smtpmail.exe
+F:\smtpmail\smtpmail\smtpmail\bin\Debug\smtpmail.pdb
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.csprojAssemblyReference.cache
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.Form1.resources
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.Properties.Resources.resources
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.csproj.GenerateResource.cache
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.csproj.CoreCompileInputs.cache
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.exe
+F:\smtpmail\smtpmail\smtpmail\obj\Debug\smtpmail.pdb
